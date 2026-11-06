@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/Fluxzy/Xip/main/website/assets/img/logo.png" alt=".Xip Logo" width="100" height="100" onerror="this.src='';this.alt='🕊️'" /><br><b>.Xip</b></p>
+# <p align="center"><img src="https://raw.githubusercontent.com/FluxzyCorporations/.XIP/refs/heads/main/xip.ico" alt=".Xip Logo" width="100" height="100" onerror="this.src='';this.alt='🕊️'" /><br><b>.Xip</b></p>
 
 <p align="center">
   <b>El compresor y cifrador de archivos moderno con alma clásica.</b><br>
